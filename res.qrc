@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>arts/16/list-add.svg</file>
+        <file>arts/64/curlew.svg</file>
+    </qresource>
+</RCC>
